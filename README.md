@@ -1,12 +1,16 @@
 # Only the Classics
 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://mit-license.org/)
+
 ## Description
 
 This web application allows users to play classic games such as Tic Tac Toe, Hangman, and Checkers. Our feature game is Tic Tac Toe, with the other games still in development.
 
-## Installation
+## Table of Contents
 
-N/A
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
 
 ## Usage
 
@@ -14,8 +18,8 @@ To use this web application, you can click the title of each game in the nav bar
 
 ## Credits
 
-N/A
+James Boulden, Pedro Quintero, Chirtopher Williams, and SLY
 
 ## License
 
-MIT License.
+This project is licensed under the MIT License - see the [License](https://mit-license.org/) file for details.
